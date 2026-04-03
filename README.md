@@ -10,10 +10,10 @@
 
 ## 🔧 What I Do
 
-- 🤖 **Robotics & Automation**: ROS, NVIDIA Isaac Sim, Sim2Real Transfer
+- 🤖 **Robotics & Automation**: ROS, NVIDIA Isaac Sim, Sim2Real Transfer, Fairino robot simulation
 - ⚡ **Embedded Systems**: Arduino, ESP32, STM32, Real-time Control
-- 🏭 **Mechanical Design**: SolidWorks, ANSYS FEA, 3D Printing
-- 🧠 **AI & Machine Learning**: Python, Computer Vision, Control Systems
+- 🏭 **Mechanical Design**: SolidWorks, Fusion 360, 3D Printing
+- 🧠 **AI & Machine Learning**: Python, Computer Vision, Control Systems, LLM model Integration
 - 🔌 **Electronics**: Circuit Design, Motor Control, PCB Design
 
 ---
